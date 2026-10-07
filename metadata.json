@@ -1,0 +1,6 @@
+{
+  "name": "CivicPay AI - Ethiopian Utility Bill Manager",
+  "description": "CivicPay AI (የህዝብ አገልግሎት ማጣሪያ) - Intelligent civic service and utility bill lookup for Ethiopian Electric, Water, Traffic Fines, and Property Tax with Telebirr & CBE Birr settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
